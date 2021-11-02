@@ -19,8 +19,8 @@ public class App {
         System.out.println(beanCat.getName());
 
         System.out.println("-----------");
-        System.out.println("bean Helloworld = Helloworld2 " + (bean==bean2));
-        System.out.println("bean Cat = Cat2 " + (beanCat==beanCat2));
+        System.out.println("bean Helloworld = Helloworld2 " + (bean == bean2));
+        System.out.println("bean Cat = Cat2 " + (beanCat == beanCat2));
 
     }
 }
